@@ -1,2 +1,1 @@
-# drbookings-core
-DrBookings Core Module
+# Dr.Bookings Core Module
